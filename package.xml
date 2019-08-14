@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>LivePerson_LiveEngage</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>N/A</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>LiveEngage by LivePerson is the modern way to talk to visitors whether they&#x2019;re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.LiveEngage by LivePerson is the modern way to talk to visitors whether they&#x2019;re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.</summary>
+    <description>This module enables the LiveEngage widget on your website.</description>
+    <notes>initial module release</notes>
+    <authors><author><name>Live Person</name><user>MAG003412186</user><email>smbpartners@liveperson.com</email></author></authors>
+    <date>2016-06-06</date>
+    <time>19:51:10</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.5.11</min><max>7.0.6</max></php></required></dependencies>
+</package>
