@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 LiveEngage by LivePerson is the modern way to talk to visitors whether they’re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.LiveEngage by LivePerson is the modern way to talk to visitors whether they’re on your site via desktop or on their mobile devices. Your customers prefer digital communication like chat, messaging, and SMS. With LiveEngage, you can interact with your customers however they want, from one easy-to-use platform. This module adds the necessary tag script to your site footer that enables the livechat functionality.
